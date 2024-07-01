@@ -9,7 +9,7 @@ public class Prinicipal {
 		Carro miCarro = new Carro();
 		
 		miCarro.setMarca("Mazda");
-		miCarro.setModelo("Mazda 3");
+		miCarro.setModelo("Mazda 6");
 		miCarro.setAnio(2000);
 
 		
